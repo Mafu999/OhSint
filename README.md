@@ -28,6 +28,14 @@
   <h3>What city is this person in?</h3>
   We found the user's X account and a personal blog, let's dive in to see more.
 
+  <img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/2bd6a221-6e0c-4783-8e4e-78e494256f6d" />
+
+  I found a post on is X account saying that he uses free wifi, and he shares the bssid. Let's go to wigle.net and search his bssid.
+
+  <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/a331c1b2-e1d5-4c8d-909e-a34c3212ac10" />
+
+  We found the location of the router he uses his free wifi, and it is in London, so he lives there. The SSID is "Unilever Wifi".
+
 </div>
 
 
